@@ -1,0 +1,29 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.code-workspace
+.qtcreator/
+
+# Bibliothèques tierces (non redistribuées)
+lib/LibRobUS-master/
+lib/LiquidCrystal_I2C-master/
+lib/Adafruit/
+
+# Artefacts de compilation
+build/
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.a
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
